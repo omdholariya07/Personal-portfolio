@@ -1,1 +1,1 @@
-# portfolio-with-day-night For Paper Airplane 
+As a front-end developer, I have honed my skills in HTML, CSS, and JavaScript, and have recently expanded my repertoire to include React JS. My portfolio features a collection of projects that demonstrate my ability to create visually appealing, interactive, and user-friendly web applications. Whether you need a responsive website, a custom e-commerce platform, or an engaging social media feed, I have the technical know-how and creativity to bring your vision to life.
